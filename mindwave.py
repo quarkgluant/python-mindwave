@@ -10,6 +10,7 @@ from __future__ import print_function
 
 import select, serial, threading
 from pprint import pprint
+from serial import Serial
 import time
 import datetime
 import os
